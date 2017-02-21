@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: git config --global user.name" time="0.014743">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: supply" time="12.872461">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: slack" time="1.11168">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
